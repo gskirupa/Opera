@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opml version="1.0">
+	<head>
+		<title>Newsfeeds exported from Opera Mail/12.14 (Win32)</title>
+	</head>
+	<body>
+		<outline text="Uploads by CSharp Corner" title="Uploads by CSharp Corner" type="rss" xmlUrl="http://gdata.youtube.com/feeds/base/users/LearnDotNet60days/uploads?alt=rss&amp;v=2&amp;orderby=published&amp;client=ytapi-youtube-profile" />
+		<outline text="C-Sharpcorner Latest Resources" title="C-Sharpcorner Latest Resources" type="rss" xmlUrl="http://www.c-sharpcorner.com/rss/latestresources.aspx" />
+		<outline text="Recent Questions - Stack Overflow" title="Recent Questions - Stack Overflow" type="rss" xmlUrl="http://stackoverflow.com/feeds" />
+		<outline text="Free Website Templates" title="Free Website Templates" type="rss" xmlUrl="http://www.freewebsitetemplates.com/forums/-/index.rss" />
+		<outline text=".NET Zone - Community for .NET developers everywhere" title=".NET Zone - Community for .NET developers everywhere" type="rss" xmlUrl="http://feeds.dzone.com/zones/dotnet" />
+		<outline text="Latest popular torrents RSS feed" title="Latest popular torrents RSS feed" type="rss" xmlUrl="http://kat.ph/?rss=1" />
+		<outline text="Latest Interview Questions" title="Latest Interview Questions" type="rss" xmlUrl="http://www.c-sharpcorner.com/rss/latestinterviewquestions.aspx" />
+		<outline text="C-Sharpcorner Latest Free Books" title="C-Sharpcorner Latest Free Books" type="rss" xmlUrl="http://www.c-sharpcorner.com/RSS/FreeBook.aspx" />
+		<outline text="CodeProject Latest Articles" title="CodeProject Latest Articles" type="rss" xmlUrl="http://www.codeproject.com/WebServices/ArticleRSS.aspx?cat=1" />
+		<outline text="Community LibraryGo Daddy Support" title="Community LibraryGo Daddy Support" type="rss" xmlUrl="http://support.godaddy.com/feed/" />
+		<outline text="RSS Torrent Downloads, Category: All, Torrents type: Today. Bittorrent download source!" title="RSS Torrent Downloads, Category: All, Torrents type: Today. Bittorrent download source!" type="rss" xmlUrl="http://www.torrentdownloads.me/rss.xml?type=today" />
+		<outline text="techsatish.net - tamil tv serials,tamil tv shows,tamil magazines,tamil mp3 songs" title="techsatish.net - tamil tv serials,tamil tv shows,tamil magazines,tamil mp3 songs" type="rss" xmlUrl="http://www.techsatish.net/feeds/posts/default" />
+		<outline text="SQL Server Journey with SQL Authority" title="SQL Server Journey with SQL Authority" type="rss" xmlUrl="http://blog.sqlauthority.com/feed/" />
+	</body>
+</opml>
